@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
+title: Ertuğrul Gazi
 tagline: Graphic Designer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
